@@ -1,18 +1,22 @@
 # 공무인 <img src="https://github.com/user-attachments/assets/c0c3926a-e88d-47b1-af6f-997b624d84f5" align=left width=100>
 > 공무원 업무 습득을 위한 Q&A 서비스, 공무인
 
-<br>
 새로운 업무를 익혀야 하는데 인수인계를 잘 못했다면?<br>
 <b>공무인</b>에서 필요한 정보를 쉽게 얻고, 업무 스트레스를 덜어보세요!
 
-<br>
+[서비스 URL](https://www.gongmuin.site) &nbsp;&nbsp;&nbsp;&nbsp;
+[작성 블로그](https://hyun-deving.tistory.com/category/스프링%20프로젝트/DND) &nbsp;&nbsp;&nbsp;&nbsp;
+[개발일지](https://wholesale-message-8d5.notion.site/DND-1b1ef5eddbe680ef8b17ec4d8efff81f?pvs=4) 
 
-## 🌟 Key Features
-<img src="https://github.com/user-attachments/assets/0067e7cc-8f8e-44f2-9096-6be69e2d80cf" width="2000" alt="질의응답">
+<details>
+  <summary>주요 기능</summary>
+  <img src="https://github.com/user-attachments/assets/0067e7cc-8f8e-44f2-9096-6be69e2d80cf" width="2000" alt="질의응답">
 <img src="https://github.com/user-attachments/assets/eb2f83be-be58-4ca7-bca2-f976481847f9" width="2000" alt="채팅">
 <img src="https://github.com/user-attachments/assets/4c95f4fe-680c-49b7-9da7-531734dc92df" width="2000" alt="마이페이지">
+</details>
 
-<br><br>
+
+<br>
 
 ## 🛠️ Tech Stack
 <img src="https://img.shields.io/badge/java%2017-262261?style=for-the-badge&logo=openjdk&logoColor=white"><img src="https://img.shields.io/badge/Spring Boot 3.2-6DB33F?style=for-the-badge&logo=spring&logoColor=white">
@@ -39,15 +43,16 @@
 <br>
 
 ## ⚙️ Deployment Pipeline
-<img width="650" height = "300" alt="배포 파이프라인 이미지" src="https://github.com/user-attachments/assets/12ea503b-8456-484e-8766-2956a9a21cce"/>
+<img width="600" height = "300" alt="배포 파이프라인 이미지" src="https://github.com/user-attachments/assets/12ea503b-8456-484e-8766-2956a9a21cce"/>
 
 <br>
 
-##  ERD
-<a href="https://www.erdcloud.com/d/rWmcJqj8KJshkowt9">
-    <img alt="ERD" width="900" height="500" src="https://github.com/user-attachments/assets/f7c0fe97-d738-4eb8-8563-d5284ff3226e" />
+##  ERD ([ERD 상세보기](https://www.erdcloud.com/d/rWmcJqj8KJshkowt9))
+<a href="https://www.erdcloud.com/d/rWmcJqj8KJshkowt9" style="display: flex; align-items: center; text-decoration: none;">
+  <img alt="ERD" width="800" height="450" src="https://github.com/user-attachments/assets/f7c0fe97-d738-4eb8-8563-d5284ff3226e" />
 </a>
 
+<br>
 
 ## 💻 Backend Developers
 
